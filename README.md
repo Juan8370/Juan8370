@@ -1,6 +1,6 @@
 # 👋 Hola, soy Juan Rodríguez  
 
-**Tecnólogo en Electrónica | Estudiante de Ingeniería de Software | Desarrollador Junior Fullstack & IoT**  
+**Tecnólogo en Mecatronica | Estudiante de Ingeniería de Software | Desarrollador Junior Fullstack & IoT**  
 
 ---
 
@@ -8,7 +8,6 @@
 Soy un desarrollador con experiencia en **IoT, automatización y desarrollo fullstack**. Combino conocimientos en **hardware y software** para crear soluciones integrales, desde el diseño de circuitos hasta aplicaciones web y sistemas embebidos.  
 
 - 💻 Desarrollo **frontend y backend** con **Node.js, Express, React**
-- 
 - 🔌 Integración de **MQTT, sistemas embebidos y comunicación serial**  
 - 🐧 Administración de **Linux** (Debian, Ubuntu, Raspberry Pi OS)  
 - 🤖 Uso de **IA** para optimizar procesos y generar informes técnicos  
@@ -26,19 +25,19 @@ Tengo amplia experiencia creando scripts para automatización de tareas, procesa
 ## 🛠 Tecnologías y Herramientas  
 
 **Lenguajes y Frameworks:**  
-`JavaScript` `Node.js` `Express` `React` `Python` `HTML` `CSS`  
+`JavaScript` `Node.js` `Express` `React` `Python` `HTML` `CSS`  `Tailwind`
 
 **Bases de Datos:**  
 `MySQL` `PostgreSQL`  `SQLite`
 
 **IoT y Protocolos:**  
-`MQTT` `TCP/IP` `Serial Communication` `HTTPS` `Apache`
+`MQTT` `Serial Communication` `HTTPS` `Apache`
 
 **Sistemas Operativos:**  
 `Linux` `Windows`  
 
 **Herramientas:**  
-`Git` `Docker` `VS Code`  
+`Git` `VS Code`  
 
 ---
 
@@ -49,9 +48,9 @@ Tengo amplia experiencia creando scripts para automatización de tareas, procesa
 ---
 
 ## 📫 Contacto  
-📧 **Email:** juanjrodriguez083@gmail.com
-🔗 **LinkedIn:** [linkedin.com/in/tuusuario](#)  
-💻 **GitHub:** [[github.com/Juan8370](https://github.com/Juan8370)](#)  
+- 📧 **Email:** juanjrodriguez083@gmail.com
+- 🔗 **LinkedIn:** [linkedin.com/in/tuusuario](#)  
+- 💻 **GitHub:** [[github.com/Juan8370](https://github.com/Juan8370)](#)  
 
 ---
 > 💡 *Siempre abierto a colaborar en proyectos relacionados con automatización y desarrollo fullstack.*
