@@ -44,6 +44,7 @@ Tengo amplia experiencia creando scripts para automatización de tareas, procesa
 
 ## 📂 Proyectos Destacados  
 
+- 💻 **PC-Control-Server:** El objetivo de este proyecto es tener control sobre la maquina mediante un servidor local desplegado en express utilizando diferentes tecnologias.
 
 ---
 
