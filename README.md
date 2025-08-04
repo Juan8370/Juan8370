@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hola, soy Juan Rodríguez  
 
 **Tecnólogo en Electrónica | Estudiante de Ingeniería de Software | Desarrollador Fullstack & IoT**  
